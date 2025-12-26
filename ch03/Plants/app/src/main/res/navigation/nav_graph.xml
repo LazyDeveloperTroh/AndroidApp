@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/quisList">
+    <fragment
+        android:id="@+id/quisList"
+        android:name="com.example.plants.QuizListFragment"
+        android:label="List"
+        tools:layout="@layout/fragment_quiz_list">
+        <action
+            android:id="@+id/action_quisList_to_quiz"
+            app:destination="@id/quiz">
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/quiz"
+        android:name="com.example.plants.QuizFragment"
+        android:label="Quiz"
+        tools:layout="@layout/fragment_quiz">
+
+    </fragment>
+</navigation>

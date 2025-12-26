@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Plants</string>
+    <string name="quiz_header">Planet Quiz</string>
+    <string name="quiz1">What is the largest planet?</string>
+    <string name="quiz2">Which planet has the most moons?</string>
+    <string name="quiz3">Which planet spins on its side?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mercury">mercury</string>
+    <string name="venus">venus</string>
+    <string name="earth">earth</string>
+    <string name="mars">mars</string>
+    <string name="jupiter">jupiter</string>
+    <string name="saturn">saturn</string>
+    <string name="uranus">uranus</string>
+    <string name="neptune">neptune"></string>
+    <string name="jupiter_answer">%s Jupiter is the largest planet and is 2.5 times the mass of all the other planets put together.</string>
+    <string name="saturn_answer">%s Saturn has the most moons and has 82 moons.</string>
+    <string name="uranus_answer">%s Uranus spins on its side with its axis at nearly a right angle to the sum</string>
+    <string name="correct">CORRECT!</string>
+    <string name="wrong">WRONG!</string>
+</resources>
