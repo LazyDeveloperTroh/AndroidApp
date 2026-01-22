@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <!--    바텀 내비게이션-->
+    <string name="home">Home</string>
+    <string name="tickets">Tickets</string>
+    <string name="offers">Offers</string>
+    <string name="rewards">Rewards</string>
+    <!--    액션 바-->
+    <string name="settings">Settings</string>
+    <string name="cart">Shopping Cart</string>
+    <string name="content">Content</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="tickets_fragment">Tickets Fragment</string>
+    <string name="offers_fragment">Offers Fragment</string>
+    <string name="rewards_fragment">Rewards Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="cart_fragment">Shopping Cart Fragment</string>
+    <string name="content_fragment">Content Fragment</string>
+    <string name="link_to_content_button">Link to Content Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
